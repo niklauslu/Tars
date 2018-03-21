@@ -2,7 +2,7 @@
 
 PWD_DIR=`pwd`
 MachineIp=119.29.165.127
-MachineName=localhost
+MachineName=VM_226_216_centos
 MysqlIncludePath=/usr/local/mysql/include
 MysqlLibPath=/usr/local/mysql/lib
 
