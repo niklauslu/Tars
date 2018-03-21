@@ -54,7 +54,7 @@ cd resin-4.0.55
 make
 make install
 cd ${PWD_DIR}
-ln -s /usr/local/resin-4.0.49 /usr/local/resin
+ln -s /usr/local/resin-4.0.55 /usr/local/resin
 
 ##安装rapidjson
 ##yum install -y git
