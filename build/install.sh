@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PWD_DIR=`pwd`
+PWD_DIR=/root/Tars/build
 MachineIp=119.29.165.127
 MachineName=VM_226_216_centos
 MysqlIncludePath=/usr/local/mysql/include
